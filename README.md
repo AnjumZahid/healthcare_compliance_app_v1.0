@@ -1,7 +1,7 @@
 # 🏥 Healthcare Compliance App v1.0  
 
 **MVP Prototype** for healthcare compliance checking.  
-Uses **MCP protocol** for querying **remote data sources (FDA / WHO APIs)**, and a **local RAG pipeline** for internal compliance knowledge.  
+Uses **MCP protocol** for querying **remote data sources (FDA / WHO APIs)**, a **local RAG pipeline** for internal compliance knowledge and and AI-powered medical imaging:  
 
 ---
 
